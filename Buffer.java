@@ -27,4 +27,3 @@ public class Buffer {
 		content--;
 	}
 }
-
